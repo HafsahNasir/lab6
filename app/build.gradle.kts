@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-     implementation(files("/Users/hafsahnasir/Library/Android/sdk/platforms/android-36/android.jar"))
+    //implementation(files("/Users/hafsahnasir/Library/Android/sdk/platforms/android-36/android.jar"))
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
